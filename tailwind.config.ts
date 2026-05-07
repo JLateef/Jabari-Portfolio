@@ -7,8 +7,8 @@ const config: Config = {
       colors: {
         bg: '#F0E6D3',
         ink: '#1C1712',
-        teal: '#1E3A6E',
-        'teal-hover': '#162D58',
+        teal: '#D4620A',
+        'teal-hover': '#B8520A',
         border: '#DDD4C4',
         muted: '#78695A',
         card: '#FFFFFF',
