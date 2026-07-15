@@ -1,6 +1,20 @@
 import { ArrowUpRight, Play } from 'lucide-react'
 
-const projects = [
+interface ProjectLink {
+  label: string
+  href: string
+  icon: string
+  note?: string
+}
+
+const projects: {
+  number: string
+  name: string
+  role: string
+  description: string
+  tags: string[]
+  links: ProjectLink[]
+}[] = [
   {
     number: '01',
     name: 'Legacy Whisperer',
