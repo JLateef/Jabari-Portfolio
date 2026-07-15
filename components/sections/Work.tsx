@@ -39,21 +39,6 @@ const projects = [
   },
   {
     number: '03',
-    name: 'Japan vs US: UX/UI & Product Philosophy',
-    role: 'Product Researcher & Author',
-    description:
-      'A deep-dive case study comparing how UX/UI philosophy shapes product thinking across US and Japanese markets — using Amazon and Rakuten as the primary lens. Published research on how market-specific design patterns drive fundamentally different product decisions.',
-    tags: ['Case Study', 'UX Research', 'Cross-cultural', 'Product Strategy'],
-    links: [
-      {
-        label: 'Read case study',
-        href: 'https://jabariproductcasestudy.notion.site/Japan-vs-US-How-UX-UI-informs-Product-Philosophy-across-markets-32a56fef622180f9a675c32b32c2c5f5',
-        icon: 'arrow',
-      },
-    ],
-  },
-  {
-    number: '04',
     name: 'Tokyo Ward App',
     role: '',
     description:
@@ -63,6 +48,21 @@ const projects = [
       {
         label: 'Open app',
         href: 'https://tokyo-ward-app.vercel.app/',
+        icon: 'arrow',
+      },
+    ],
+  },
+  {
+    number: '04',
+    name: 'Japan vs US: UX/UI & Product Philosophy',
+    role: 'Product Researcher & Author',
+    description:
+      'A deep-dive case study comparing how UX/UI philosophy shapes product thinking across US and Japanese markets — using Amazon and Rakuten as the primary lens. Published research on how market-specific design patterns drive fundamentally different product decisions.',
+    tags: ['Case Study', 'UX Research', 'Cross-cultural', 'Product Strategy'],
+    links: [
+      {
+        label: 'Read case study',
+        href: 'https://jabariproductcasestudy.notion.site/Japan-vs-US-How-UX-UI-informs-Product-Philosophy-across-markets-32a56fef622180f9a675c32b32c2c5f5',
         icon: 'arrow',
       },
     ],
