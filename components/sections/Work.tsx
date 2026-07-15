@@ -24,10 +24,10 @@ const projects = [
   },
   {
     number: '02',
-    name: 'Harvest — Online Ordering',
+    name: 'Harvest Restaurant - Online Ordering Platform',
     role: 'Product Designer & Builder',
     description:
-      'Transformed a fictitious local restaurant from a static info page (store hours and directions only) into a fully functional mobile ordering platform. Harvest features a browse-and-customize menu, cart management, scheduled pickup, payment, and a punch card rewards program — built as a PM interview demo prototype.',
+      'Transformed a fictitious local restaurant from a static info page (store hours and directions only) into a fully functional mobile ordering platform. Harvest features a browse-and-customize menu, cart management, scheduled pickup, payment, and a punch card rewards program. Built as a PM interview demo prototype.',
     tags: ['Mobile App', 'Food Tech', 'E-commerce', 'React'],
     links: [
       {
