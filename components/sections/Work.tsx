@@ -28,11 +28,6 @@ const projects: {
         href: 'https://drive.google.com/file/d/1qifJvgH-rcGYO760Zu579agzocs7pSLh/view',
         icon: 'play',
       },
-      {
-        label: 'View demo',
-        href: 'https://drive.google.com/file/d/1qifJvgH-rcGYO760Zu579agzocs7pSLh/view',
-        icon: 'arrow',
-      },
     ],
   },
   {
