@@ -11,7 +11,7 @@ const projects = [
     links: [
       {
         label: 'Watch demo',
-        href: 'https://www.icloud.com/photos/#0f6TRtL3Zz4CsdEUbe0Z0Rflw',
+        href: 'https://drive.google.com/file/d/1qifJvgH-rcGYO760Zu579agzocs7pSLh/view',
         icon: 'play',
       },
       {
