@@ -24,6 +24,21 @@ const projects = [
   },
   {
     number: '02',
+    name: 'Harvest — Online Ordering',
+    role: 'Product Designer & Builder',
+    description:
+      'Transformed a fictitious local restaurant from a static info page (store hours and directions only) into a fully functional mobile ordering platform. Harvest features a browse-and-customize menu, cart management, scheduled pickup, payment, and a punch card rewards program — built as a PM interview demo prototype.',
+    tags: ['Mobile App', 'Food Tech', 'E-commerce', 'React'],
+    links: [
+      {
+        label: 'Open app',
+        href: 'https://harvest-app-delta.vercel.app/',
+        icon: 'arrow',
+      },
+    ],
+  },
+  {
+    number: '03',
     name: 'Japan vs US: UX/UI & Product Philosophy',
     role: 'Product Researcher & Author',
     description:
@@ -38,7 +53,7 @@ const projects = [
     ],
   },
   {
-    number: '03',
+    number: '04',
     name: 'Tokyo Ward App',
     role: '',
     description:
@@ -53,7 +68,7 @@ const projects = [
     ],
   },
   {
-    number: '04',
+    number: '05',
     name: 'NYT Messaging Orchestrator',
     role: '',
     description:
@@ -68,7 +83,7 @@ const projects = [
     ],
   },
   {
-    number: '05',
+    number: '06',
     name: 'Care Team Copilot',
     role: 'Product Designer & Builder',
     description:
@@ -78,21 +93,6 @@ const projects = [
       {
         label: 'Open app',
         href: 'https://care-team-copilot.vercel.app/',
-        icon: 'arrow',
-      },
-    ],
-  },
-  {
-    number: '06',
-    name: 'Harvest — Online Ordering',
-    role: 'Product Designer & Builder',
-    description:
-      'Transformed a fictitious local restaurant from a static info page (store hours and directions only) into a fully functional mobile ordering platform. Harvest features a browse-and-customize menu, cart management, scheduled pickup, payment, and a punch card rewards program — built as a PM interview demo prototype.',
-    tags: ['Mobile App', 'Food Tech', 'E-commerce', 'React'],
-    links: [
-      {
-        label: 'Open app',
-        href: 'https://harvest-app-delta.vercel.app/',
         icon: 'arrow',
       },
     ],
