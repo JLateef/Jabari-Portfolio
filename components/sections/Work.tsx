@@ -67,6 +67,36 @@ const projects = [
       },
     ],
   },
+  {
+    number: '05',
+    name: 'Care Team Copilot',
+    role: 'Product Designer & Builder',
+    description:
+      'A healthcare inbox orchestrator that intelligently triages and prioritizes inbound patient messages based on illness and issue severity. Designed to reduce response time for high-acuity cases and prevent critical messages from getting buried in high-volume care team queues.',
+    tags: ['Healthcare', 'AI Triage', 'Inbox Management', 'Patient Communication'],
+    links: [
+      {
+        label: 'Open app',
+        href: 'https://care-team-copilot.vercel.app/',
+        icon: 'arrow',
+      },
+    ],
+  },
+  {
+    number: '06',
+    name: 'Harvest — Online Ordering',
+    role: 'Product Designer & Builder',
+    description:
+      'Transformed a fictitious local restaurant from a static info page (store hours and directions only) into a fully functional mobile ordering platform. Harvest features a browse-and-customize menu, cart management, scheduled pickup, payment, and a punch card rewards program — built as a PM interview demo prototype.',
+    tags: ['Mobile App', 'Food Tech', 'E-commerce', 'React'],
+    links: [
+      {
+        label: 'Open app',
+        href: 'https://harvest-app-delta.vercel.app/',
+        icon: 'arrow',
+      },
+    ],
+  },
 ]
 
 export default function Work() {
