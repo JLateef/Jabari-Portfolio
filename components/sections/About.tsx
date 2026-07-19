@@ -36,7 +36,7 @@ export default function About() {
                 At Nike, Jabari spent a year and a half as a Data Analyst, and four years owning Nike.net&apos;s SAP S/4HANA data integration across three global regions: Greater China, North America, and EMEA (Europe Middle East & Africa). He led cross-functional partnerships between Nike.net and international business teams, and managed regression testing for one of Nike&apos;s most complex platform migrations.
               </p>
               <p>
-                After Nike, Jabari moved to Tokyo, Japan, where he earned JLPT N3 (business-intermediate Japanese), connected with Japan&apos;s AI startup ecosystem, and built several AI proeducts, including one that placed 2nd at the Deep Learning.AI Hackathon at Google Japan. Observing that companies across both markets struggle with the same institutional knowledge problem inspired Legacy Whisperer.
+                After Nike, Jabari moved to Tokyo, Japan, where he earned JLPT N3 (business-intermediate Japanese), connected with Japan&apos;s AI startup ecosystem, and built several AI products, including one that placed 2nd at the Deep Learning.AI Hackathon at Google Japan. Observing that companies across both markets struggle with the same institutional knowledge problem inspired Legacy Whisperer.
               </p>
               <p>
                 Currently residing in Los Angeles, he is open to Senior Product Manager and AI Product Manager roles, and is flexible on location within the US.
