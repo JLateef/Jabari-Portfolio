@@ -16,7 +16,7 @@ export default function Contact() {
               className="inline-flex items-center gap-2 text-sm font-sans text-muted hover:text-ink transition-colors"
             >
               <Phone className="w-4 h-4" strokeWidth={1.5} />
-              205-617-3235
+              Mobile: +1-205-617-3235
             </a>
           </div>
           <div className="flex flex-wrap gap-4">
