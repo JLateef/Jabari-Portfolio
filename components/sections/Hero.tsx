@@ -16,7 +16,7 @@ export default function Hero() {
               Jabari Lateef
             </h1>
             <p className="font-sans text-xl text-muted leading-relaxed mb-10 max-w-xl">
-              Building &amp; managing products at the intersection of Enterprise Systems, Modernization, and Productivity. Currently building Legacy Whisperer, an AI modernization tool for enterprises preparing for legacy codebase migration. Previously: Silicon Valley, Nike, Tokyo.
+              Building &amp; managing products at the intersection of Enterprise Systems, Modernization, and Productivity. Previously: Silicon Valley, Nike, Tokyo.
             </p>
             <div className="flex flex-wrap gap-4">
               <a
