@@ -39,7 +39,7 @@ export default function About() {
                 After Nike, Jabari moved to Tokyo, Japan, where he earned JLPT N3 (business-intermediate Japanese), connected with Japan&apos;s AI startup ecosystem, and built several AI proeducts, including one that placed 2nd at the Deep Learning.AI Hackathon at Google Japan. Observing that companies across both markets struggle with the same institutional knowledge problem inspired Legacy Whisperer.
               </p>
               <p>
-                Currently residing in Tokyo, he is open to Senior Product Manager and AI Product Manager roles in both Japan and the United States.
+                Currently residing in Los Angeles, he is open to Senior Product Manager and AI Product Manager roles, and is flexible on location within the US.
               </p>
             </div>
           </div>
