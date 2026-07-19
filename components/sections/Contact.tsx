@@ -12,18 +12,11 @@ export default function Contact() {
 
           <div className="flex flex-col gap-3 mb-6">
             <a
-              href="tel:+818020554658"
-              className="inline-flex items-center gap-2 text-sm font-sans text-muted hover:text-ink transition-colors"
-            >
-              <Phone className="w-4 h-4" strokeWidth={1.5} />
-              +81-80-2055-4658 (Japan)
-            </a>
-            <a
               href="tel:+12056173235"
               className="inline-flex items-center gap-2 text-sm font-sans text-muted hover:text-ink transition-colors"
             >
               <Phone className="w-4 h-4" strokeWidth={1.5} />
-              +1-205-617-3235 (US)
+              205-617-3235
             </a>
           </div>
           <div className="flex flex-wrap gap-4">
