@@ -62,6 +62,21 @@ const projects: {
   },
   {
     number: '04',
+    name: 'Ringfinder',
+    role: 'Product Designer & Builder',
+    description:
+      'A synthetic identity and duplicate-applicant detector that surfaces fraud rings hiding across seemingly unrelated applications. Ringfinder links applicants through shared identity signals and uses Claude to explain, in plain language, why each cluster was flagged, so reviewers can act quickly and confidently.',
+    tags: ['AI', 'Fraud Detection', 'Identity', 'Risk'],
+    links: [
+      {
+        label: 'Open app',
+        href: 'https://ringfinder-beta.vercel.app/',
+        icon: 'arrow',
+      },
+    ],
+  },
+  {
+    number: '05',
     name: 'Japan vs US: UX/UI & Product Philosophy',
     role: 'Product Researcher & Author',
     description:
@@ -76,7 +91,7 @@ const projects: {
     ],
   },
   {
-    number: '05',
+    number: '06',
     name: 'NYT Messaging Orchestrator',
     role: '',
     description:
@@ -91,7 +106,7 @@ const projects: {
     ],
   },
   {
-    number: '06',
+    number: '07',
     name: 'Care Team Copilot',
     role: 'Product Designer & Builder',
     description:
